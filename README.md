@@ -1,35 +1,87 @@
-# Getting Started with Create React App
+# KeyNest Property Listing Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a property listing application built with React. It allows users to search for properties, view property details, and manage a list of favourite properties.
 
-## Available Scripts
+## Getting Started
+
+To get started with this project, you need to have Node.js and npm installed on your machine. Follow the instructions below to set up and run the project.
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+
+### Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/LakinduDeSilva/KeyNest-Estate-Agent-Client-Side-Sever.git
+   cd keynest
+
+2. Install the dependencies:
+
+    ```sh
+    npm install
+    ```
+
+**Additional Dependencies**
+
+This project utilizes the following additional packages and dependencies:
+
+- **react-router-dom**: For routing and navigation.
+- **react-bootstrap and bootstrap**: For styling and responsive design.
+- **react-icons**: For using icons in the application.
+- **react-tabs**: For creating tabbed interfaces.
+- **prop-types**: For type checking of props.
+
+**To install these dependencies, run:**
+
+```sh
+npm install react-router-dom react-bootstrap bootstrap react-icons react-tabs prop-types
+```
+
+**Available Scripts**
 
 In the project directory, you can run:
 
-### `npm start`
+```sh
+npm start
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in the development mode.
 
-The page will reload when you make changes.\
+Open `http://localhost:3000` to view it in your browser.
+
+The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-### `npm test`
+```sh
+npm test
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launches the test runner in the interactive watch mode.
 
-### `npm run build`
+See the section about `running tests` for more information.
 
-Builds the app for production to the `build` folder.\
+```sh
+npm run build
+```
+
+Builds the app for production to the `build` folder.
+
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
+
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+See the section about deployment for more information.
+
+```sh
+npm run eject
+```
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -39,32 +91,32 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+**Project Structure**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The project structure is as follows:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```sh
+keynest/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── HomePage.js
+│   │   ├── SearchBar.js
+│   │   ├── PropertyList.js
+│   │   ├── PropertyCard.js
+│   │   ├── PropertyDetails.js
+│   │   ├── FavouritesList.js
+│   │   └── Footer.js
+│   ├── data/
+│   │   └── properties.json
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+├── .gitignore
+├── package.json
+└── README.md
+```
