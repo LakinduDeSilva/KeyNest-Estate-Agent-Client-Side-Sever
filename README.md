@@ -1,4 +1,4 @@
-# KeyNest Property Listing Application
+# KeyNest Estate Agent Application
 
 This project is a property listing application built with React. It allows users to search for properties, view property details, and manage a list of favourite properties.
 
@@ -29,11 +29,11 @@ To get started with this project, you need to have Node.js and npm installed on 
 
 This project utilizes the following additional packages and dependencies:
 
-- **react-router-dom**: For routing and navigation.
-- **react-bootstrap and bootstrap**: For styling and responsive design.
-- **react-icons**: For using icons in the application.
-- **react-tabs**: For creating tabbed interfaces.
-- **prop-types**: For type checking of props.
+- **`react-router-dom`**: For routing and navigation.
+- **`react-bootstrap and bootstrap`**: For styling and responsive design.
+- **`react-icons`**: For using icons in the application.
+- **`react-tabs`**: For creating tabbed interfaces.
+- **`prop-types`**: For type checking of props.
 
 **To install these dependencies, run:**
 
