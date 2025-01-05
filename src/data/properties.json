@@ -1,0 +1,170 @@
+[
+    {
+        "id": "prop1",
+        "name": "Semi-Detached Family Home",
+        "type": "House",
+        "bedrooms": 3,
+        "price": 750000,
+        "tenure": "Freehold",
+        "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+        "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+        "picture": "https://wallpapercave.com/wp/wp7624829.jpg",
+        "thumbnails": [
+            "https://media.licdn.com/dms/image/v2/D4E12AQHzt08LxrnBYg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1710767604436?e=2147483647&v=beta&t=6XPsIdfybE15zT4cXhx4uiZXfThDU6BAKD_P9wjgPOA",
+            "https://i0.wp.com/www.khov.com/blog/wp-content/uploads/2020/04/30993_Aspire-at-Ashley-Pointe_Ellwood_Family-Room-1024x655.jpg?resize=768%2C491&ssl=1",
+            "https://www.bhg.com/thmb/uH_PC31PddfTlMVt07Wls_FKr5k=/1649x0/filters:no_upscale():strip_icc()/black-white-kitchen-island-231bb15e-eaca8648a73a46f5a191437468c75bb3.jpg",
+            "https://www.thespruce.com/thmb/-rwcC9Gkkuo4l9O8JyHatBXpYiU=/2048x0/filters:no_upscale():max_bytes(150000):strip_icc()/master-bathroom-design-ideas-4129362-hero-d896a889451341dfaa59c5b2beacf02d.jpg"
+        ],
+        "url": "properties/prop1.html",
+        "floorplan": "https://wpmedia.roomsketcher.com/content/uploads/2021/12/14164614/RoomSketcher-House-Floor-Plans-2452430-800.jpg",
+        "added": {
+            "month": "October",
+            "day": 12,
+            "year": 2022
+        }
+    },
+    {
+        "id": "prop2",
+        "name": "Modern Garden Flat",
+        "type": "Flat",
+        "bedrooms": 2,
+        "price": 399995,
+        "tenure": "Freehold",
+        "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms. This apartment being only five years old, is still under a 10 year building guarantee...",
+        "location": "Crofton Road Orpington BR6",
+        "picture": "https://wallpapercave.com/wp/wp10477033.jpg",
+        "thumbnails": [
+            "https://media.designcafe.com/wp-content/uploads/2024/01/24175345/modern-luxury-bedroom-design-ideas.jpg",
+            "https://www.thespruce.com/thmb/LSwQYCene2wKOL8cXyFxt1z0yGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/DesireeBurns_Boston_1Franklin_1-259cdad5ac6a4432b18e41f6f781afde.jpg",
+            "https://www.howdens.com/-/media/howdens/assets/clh_asset_corporate/clh_asset_levela_109324/clh_asset_levelb_25289732/clh_asset_levelc_25363630/clh_asset_leveld_25527855/ass_25527868.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7XArKLUxmCMCEzFJPcedVwqKwiovESu2qpg&s"
+        ],
+        "url": "properties/prop2.html",
+        "floorplan": "https://www.arcadiarun.com/wp-content/uploads/2016/09/Screen-Shot-2016-09-26-at-5.08.54-PM.png",
+        "added": {
+            "month": "September",
+            "day": 14,
+            "year": 2024
+        }
+    },
+    {
+        "id": "prop3",
+        "name": "Spacious Family Home",
+        "type": "House",
+        "bedrooms": 4,
+        "price": 800000,
+        "tenure": "Freehold",
+        "description": "This stunning four-bedroom family home is perfect for modern living. It features a spacious open-plan kitchen, a large living room with bi-folding doors leading to a beautifully landscaped garden, and a dedicated study room. Upstairs, you'll find four generously sized bedrooms, including a luxurious master suite with an en-suite bathroom. Located in a peaceful residential area with excellent schools and transport links nearby, this property is an ideal choice for families.",
+        "location": "Holly Avenue, Bromley, BR2",
+        "picture": "https://wallpapercave.com/wp/wp6254065.jpg",
+        "thumbnails": [
+            "https://www.bedsland.co.uk/wp-content/uploads/2023/10/image7-64.webp",
+            "https://s42814.pcdn.co/wp-content/uploads/2020/01/Livingroom_12-0618_Charleston_Reveal_Folder.0-1-scaled.jpg.optimal.jpg",
+            "https://image.made-in-china.com/226f3j00zEfWLhMJsGRe/Stainless-Steel-Hose-Cabinet-Stainless-Steel-Storage-Cabinet-Stainless-Steel-Commercial-Kitchen-Cabinets.webp",
+            "https://assets-news.housing.com/news/wp-content/uploads/2020/05/05173226/Bathroom-design-ideas-for-small-and-large-homes-FB-1200x700-compressed.jpg"
+        ],
+        "url": "properties/prop3.html",
+        "floorplan": "https://i.pinimg.com/736x/1b/2a/7f/1b2a7fb659109c3c4f39571a69f25741.jpg",
+        "added": {
+            "month": "October",
+            "day": 12,
+            "year": 2023
+        }
+    },
+    {
+        "id": "prop4",
+        "name": "Two-Bedroom Modern Flat",
+        "type": "Flat",
+        "bedrooms": 2,
+        "price": 350000,
+        "tenure": "Leasehold",
+        "description": "A beautifully presented two-bedroom apartment located in the heart of the city center. This modern flat includes an open-plan living area, a fully fitted kitchen, and two spacious bedrooms with built-in wardrobes. The apartment benefits from high-quality fixtures and fittings, and is within walking distance of local amenities and transport links.",
+        "location": "High Street, London, EC2A",
+        "picture": "https://wallpapercave.com/wp/wp10476988.jpg",
+        "thumbnails": [
+            "https://www.craftedbeds.co.uk/cdn/shop/articles/a128d41eed1bf66b2ee4f049e9a38497.jpg?v=1656417253",
+            "https://hips.hearstapps.com/hmg-prod/images/chicinteriors08262020-17242web-65303a490ade8.jpg?crop=1xw:0.9499417927823051xh;center,top&resize=980:*",
+            "https://www.diygrannyflat.com.au/wp-content/uploads/2020/06/granny-flat-interiors-768x506.jpg",
+            "https://media.istockphoto.com/id/1368913055/photo/interior-of-modern-bathroom-in-luxury-hotel.jpg?s=612x612&w=0&k=20&c=KVnx0YzDNozXrhYJkm84im4pos_UO2SX6zbCeNcaAC4="
+        ],
+        "url": "properties/prop4.html",
+        "floorplan": "https://images.edrawmax.com/examples/apartment-floor-plan/example4.png",
+        "added": {
+            "month": "October",
+            "day": 15,
+            "year": 2023
+        }
+    },
+    {
+        "id": "prop5",
+        "name": "Detached Four-Bedroom House",
+        "type": "House",
+        "bedrooms": 4,
+        "price": 850000,
+        "tenure": "Freehold",
+        "description": "This spacious four bedroom detached house is located in a quiet cul-de-sac just a short walk from the town center. The property includes a large living room, dining room, modern kitchen, and a private garden. Upstairs, you'll find four generous-sized bedrooms, including a master bedroom with an en-suite bathroom. Additional features include a double garage and off-road parking.",
+        "location": "Greenwood Close, Chislehurst, BR7",
+        "picture": "https://wallpapercave.com/wp/wp6926697.jpg",
+        "thumbnails": [
+            "https://i.pinimg.com/736x/84/9b/09/849b09f2436586e644067299b130efe8.jpg",
+            "https://s.yimg.com/ny/api/res/1.2/pMBAkpM.RbGB9p1wQC2MXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTc2OA--/https://media.zenfs.com/en/apartment_therapy_269/5ed7ff441c52394e6dc168b4be8f5dc3",
+            "https://media.houseandgarden.co.uk/photos/63dbee21663a9167d85f131a/4:3/w_3747,h_2810,c_limit/Shot31_1211_RT-production_digital.jpg",
+            "https://i.pinimg.com/736x/24/37/82/2437828ffbabc344ab87b015402e91b4.jpg"
+        ],
+        "url": "properties/prop5.html",
+        "floorplan": "https://i.pinimg.com/736x/1c/bd/37/1cbd378e48bf4dd52bb317f59688f04f.jpg",
+        "added": {
+            "month": "November",
+            "day": 5,
+            "year": 2022
+        }
+    },
+    {
+        "id": "prop6",
+        "name": "Luxury Five-Bedroom Detached House",
+        "type": "House",
+        "bedrooms": 5,
+        "price": 1250000,
+        "tenure": "Leasehold",
+        "description": "A stunning five bedroom detached house set in a prestigious location, offering both luxury and space. The property features a large open-plan kitchen, living area, and dining area with access to a beautifully landscaped garden. The master bedroom has an en-suite bathroom, and there are four additional bedrooms, perfect for a growing family. A double garage and driveway provide ample parking space.",
+        "location": "Burgess Hill, Bromley, BR2",
+        "picture": "https://wallpapercave.com/wp/wp3701653.jpg",
+        "thumbnails": [
+            "https://www.decorpot.com/images/2016633195top-15-beautiful-and-luxury-bedroom-interior-design-ideas-2023.jpg",
+            "https://www.craftedbeds.co.uk/cdn/shop/articles/image3.jpg?v=1674490756",
+            "https://www.nakedkitchens.com/image/catalog/blog/2024/Lshaped-kitchens/st-giles.jpg",
+            "https://grecoremodeling.com/wp-content/uploads/2021/07/Master-Bathroom.jpg"
+        ],
+        "url": "properties/prop6.html",
+        "floorplan": "https://wpmedia.roomsketcher.com/content/uploads/2022/01/06145940/What-is-a-floor-plan-with-dimensions.png",
+        "added": {
+            "month": "December",
+            "day": 1,
+            "year": 2022
+        }
+    },
+    {
+        "id": "prop7",
+        "name": "Charming One-Bedroom Flat",
+        "type": "Flat",
+        "bedrooms": 1,
+        "price": 250000,
+        "tenure": "Leasehold",
+        "description": "A charming one-bedroom flat situated on the top floor of a well-maintained period building. The property features a spacious living room, a modern kitchen, and a good-sized bedroom. Located within easy reach of public transport and local shops, this flat is ideal for a first-time buyer or investor.",
+        "location": "Kings Road, Chelsea, SW3",
+        "picture": "https://wallpapercave.com/wp/wp10476998.jpg",
+        "thumbnails": [
+            "https://i0.wp.com/fancyhouse-design.com/wp-content/uploads/2023/11/A-contemporary-bedroom-features-smart-home-technology-seamlessly-blended-into-its-luxury-design..jpg?ssl=1",
+            "https://st.hzcdn.com/simgs/pictures/living-rooms/euro-studio-munroe-img~3b9162610f04dc81_14-5943-1-a505057.jpg",
+            "https://premierhomesvic.com.au/wp/wp-content/uploads/2018/07/Delandra-Granny-Flat-Kitchen.jpg",
+            "https://emilysinteriorsinc.com/wp-content/uploads/2024/05/small-bathroom-design.webp"
+        ],
+        "url": "properties/prop7.html",
+        "floorplan": "https://images.edrawmax.com/examples/apartment-floor-plan/example3.png",
+        "added": {
+            "month": "November",
+            "day": 20,
+            "year": 2022
+        }
+    }
+]
